@@ -2,19 +2,17 @@
 
 研究活動以外の取り組みをまとめたリポジトリです。
 
-## 📂 Projects
+## ディレクトリ構成
+各ディレクトリ内に詳細な`README.md`とソースコード等があります。
 
-### 1. [MechatroLab](MechatroLab/)
+### 📂 [MechatroLab](MechatroLab/)
 **メカトロニクスラボA 自由製作課題：最優秀賞**
 - **概要**: 食事中の飛沫感染を防ぐ帽子型ウェアラブルデバイス。
 
-### 2. [WesternGame](WesternGame/)
+### 📂 [WesternGame](WesternGame/)
 **Unity 2Dエンドレスランナーゲーム**
 - **概要**: 研究室の夏課題で制作した、西部劇テーマの2Dアクションゲーム。
 
-### 3. [Robocon](Robocon/)
+### 📂 [Robocon](Robocon/)
 **研究室ロボコン用 玉入れロボット**
 - **概要**: 制限時間内にボールをゴールに入れる攻撃用ロボット。
-
----
-Note: 各ディレクトリ内に詳細なREADMEとソースコードがあります。
